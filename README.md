@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey Guys! Welcome to my Profile ✨
+
+Code and UI Design is my Passion 💕
+
+Love games, animes and boardgames
 
 <!--
 **CarolineKnaip/carolineknaip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
