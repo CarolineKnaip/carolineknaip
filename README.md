@@ -5,14 +5,22 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineknaip&layout=compact&langs_count=7&theme=cobalt"/>
 </div> 
 
-
 ##
-<div style="display: inline_block"><br>
-  <img align="right" alt="carol-gif" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/56215065/178078728-8985720d-244b-4eaf-b30b-d47f3fd1b6f0.gif">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" width="52" alt="raspberrypi logo"  />
 </div>
 
+##
 
-MY ALURA PROFILE: 
-<a href="default.asp"><img src="smiley.gif" style="width:42px;height:42px;"></a>
-<a href="https://cursos.alura.com.br/user/carolineknaip"><img src="https://user-images.githubusercontent.com/56215065/177843143-b3f819e5-9dc1-4c7e-baf7-b83b01c08161.png"></a>
+<div align="right">
+  <img height="200" src="https://user-images.githubusercontent.com/56215065/178078728-8985720d-244b-4eaf-b30b-d47f3fd1b6f0.gif"  />
+</div>
 
+###
