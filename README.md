@@ -19,7 +19,7 @@
 
 ##
 
-<div align="right">
+<div align="center">
   <img height="200" src="https://user-images.githubusercontent.com/56215065/178078728-8985720d-244b-4eaf-b30b-d47f3fd1b6f0.gif"  />
 </div>
 
