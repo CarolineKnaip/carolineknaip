@@ -19,8 +19,8 @@
 
 ##
 
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/56215065/178078728-8985720d-244b-4eaf-b30b-d47f3fd1b6f0.gif"  />
-</div>
+<img align="right" height="200" src="https://user-images.githubusercontent.com/56215065/178078728-8985720d-244b-4eaf-b30b-d47f3fd1b6f0.gif"  />
 
 ###
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=CarolineKnaip&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
