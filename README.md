@@ -40,9 +40,3 @@ Proficient in Dart and Flutter for building cross-platform mobile applications
   <a href = "mailto:caroline.knaip123@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/carolineknaip/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## GitHub stats
-<div align="center"><a href="https://github.com/CarolineKnaip">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=carolineknaip&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolineknaip&layout=compact&langs_count=7&theme=cobalt"/></a>
-</div>
-
